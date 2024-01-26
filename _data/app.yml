@@ -1,11 +1,9 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
+name: Yellow Jersey
+description: Votez pour la personne qui a illuminé votre soirée
+full_description: Votez pour la personne qui a illuminé votre soirée, votre match ou rendu vos vacances inoubliables.<br> 
+Que ce soit pour le plus drôle, le plus festif, ou le plus mémorable, Maillot Jaune célèbre l'éclat des moments partagés.<br> 
+Facile à utiliser, amusant à partager - téléchargez dès maintenant et créez des souvenirs inoubliables avec Maillot Jaune ! 🌟
+android: https://play.google.com/store/apps/details?id=com.policy.maillot.jaune
 iOS: https://telegra.ph/Replace-this-link-07-23
 web: https://telegra.ph/Replace-this-link-07-23
 screenshots:
@@ -13,9 +11,4 @@ screenshots:
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
+  - 5.png

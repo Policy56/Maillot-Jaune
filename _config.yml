@@ -28,7 +28,7 @@ github: https://github.com/Policy56
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:
 #  google: verification_code
-#google_analytics: UA-XXXXXXXXX-X
+google_analytics: G-JK1NFD208H
 #doorbell:
 #  id: doorbell_id
 #  appKey: doorbell_appKey

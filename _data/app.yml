@@ -7,14 +7,10 @@ full_description: 'A more complete description of the mobile app<br>
 <br>- Feature 3'
 android: https://play.google.com/store/apps/details?id=com.policy.maillot.jaune
 iOS: https://testflight.apple.com/join/MMqFaksC
+web: false
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
   - 5.png
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
